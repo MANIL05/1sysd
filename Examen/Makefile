@@ -1,8 +1,7 @@
 .PHONY: all clean
 
-# Compléter la ligne ci-dessous avec les noms des
-# programme à compiler 
-PROGS=hist paths
+
+PROGS=circle factoriel invertcase
 CC=gcc
 CFLAGS=
 LDFLAGS=-lm
